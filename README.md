@@ -1,16 +1,36 @@
-# charlie_brown_jr
+# 🎸 CRBJR - Homenagem à Minha Banda Favorita 🎤
 
-A new Flutter project.
+![Logo](https://github.com/user-attachments/assets/a75a859a-c877-4663-8ec5-beef6181d7cd)
 
-## Getting Started
+**CRBJR** é um aplicativo desenvolvido com **Dart** e **Flutter**, criado para aprimorar minhas habilidades em desenvolvimento mobile. Este projeto é **não comercial** e está centrado no aprendizado, além de ser uma **homenagem** à minha banda favorita de rock brasileira. 🎶
 
-This project is a starting point for a Flutter application.
+A banda tem sido uma grande fonte de inspiração para mim, representando a voz do povo brasileiro, especialmente a juventude. 💥 Acredito que essa banda deve ser conhecida e apreciada pelas novas gerações, pois sempre defendeu causas importantes e se manteve fiel às suas raízes. 🌱
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Objetivos do Projeto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Aprimorar minhas habilidades** em desenvolvimento mobile utilizando **Dart** e **Flutter**. 📱
+- Criar uma plataforma para que os usuários possam **explorar e interagir com conteúdo** relacionado à minha banda favorita. 🎧
+- Prestar uma **homenagem** à banda, compartilhando sua história, músicas e legado com um público mais amplo. 💬
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🤝 Como Contribuir
+
+Este projeto está em constante evolução e **contribuições são bem-vindas**! Se você tem sugestões ou deseja colaborar com o código, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**. 🔧
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Dart** - Linguagem de programação. 💻
+- **Flutter** - Framework para desenvolvimento de apps móveis. 📲
+
+## 🌍 Plataformas Suportadas
+
+- **iOS** 🍏
+- **Android** 🤖
+- **Windows** 💻
+
+## 📝 Licença
+
+Este projeto está licenciado sob a **MIT License**. 📄
+
+---
+
+Agradeço pelo seu interesse no meu projeto! Vamos seguir evoluindo e aprendendo juntos! 🚀
