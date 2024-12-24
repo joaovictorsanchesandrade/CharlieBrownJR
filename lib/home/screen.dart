@@ -11,12 +11,17 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(
-        child: Text(
-          'Charlie Brown JR',
-          style: TextStyle(fontFamily: 'Permanent Marker'),
-        ),
-      ),
-    );
+        body: Stack(
+      children: [
+        Align(
+            alignment: Alignment.bottomCenter,
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                IconButton(onPressed: () {}, icon: Icon(Icons.music_note))
+              ],
+            ))
+      ],
+    ));
   }
 }

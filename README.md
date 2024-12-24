@@ -6,11 +6,26 @@
 
 A banda tem sido uma grande fonte de inspiração para mim, representando a voz do povo brasileiro, especialmente a juventude. 💥 Acredito que essa banda deve ser conhecida e apreciada pelas novas gerações, pois sempre defendeu causas importantes e se manteve fiel às suas raízes. 🌱
 
+
+
 ## 🎯 Objetivos do Projeto
 
 - **Aprimorar minhas habilidades** em desenvolvimento mobile utilizando **Dart** e **Flutter**. 📱
 - Criar uma plataforma para que os usuários possam **explorar e interagir com conteúdo** relacionado à minha banda favorita. 🎧
 - Prestar uma **homenagem** à banda, compartilhando sua história, músicas e legado com um público mais amplo. 💬
+
+## 🖥️ Interface do Aplicativo
+
+- **Músicas** 🎶  
+  O aplicativo contará com um catálogo completo, apresentando os maiores sucessos do Charlie Brown Jr. Os usuários poderão explorar suas músicas mais icônicas e reviver momentos marcantes da banda.
+
+- **Membros** 🎤  
+  Será exibido um ambiente dedicado a cada um dos membros do Charlie Brown Jr., com informações detalhadas sobre suas trajetórias pessoais e sua contribuição para o sucesso da banda.
+
+- **Trajetória** 📜  
+  A seção "Trajetória" contará a história completa da banda, desde sua formação até o fim de sua carreira, celebrando sua evolução e legado no cenário musical brasileiro.
+
+
 
 ## 🤝 Como Contribuir
 
